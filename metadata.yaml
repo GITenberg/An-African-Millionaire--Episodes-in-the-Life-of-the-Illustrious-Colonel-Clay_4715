@@ -1,0 +1,38 @@
+_repo: An-African-Millionaire--Episodes-in-the-Life-of-the-Illustrious-Colonel-Clay_4715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: '"A genre classic, Grant Allen''s AN AFRICAN MILLIONAIRE is the perfect
+  addition to our mini library of classic crime fiction. Wealthy, confident, and handsome,
+  Charles Van Drift is not accustomed to being swindled and his brush with Colonel
+  Clay both rattles and infuriates him. As his South African diamond fortune takes
+  hit after hit from the quick-witted master of disguise, Allen leaves even the reader
+  guessing: whom can you trust? Van Drift grows more suspicious of those around him
+  and a few too many misguided accusations shake the millionaire''s confidence. Colonel
+  Clay is in his head. Gary Hoppenstand contributes an introduction discussing the
+  reception of the work when it was first serialized in THE STRAND and the significance
+  of Colonel Clay as the first recurring gentleman rogue"--'
+gutenberg_bookshelf:
+- Crime Fiction
+- Africa
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: 'An African Millionaire: Episodes in the Life of the Illustrious Colonel Clay'
+url: http://www.gutenberg.org/ebooks/4715
