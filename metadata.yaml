@@ -1,5 +1,8 @@
 _repo: An-African-Millionaire--Episodes-in-the-Life-of-the-Illustrious-Colonel-Clay_4715
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, Grant
@@ -19,6 +22,8 @@ description: '"A genre classic, Grant Allen''s AN AFRICAN MILLIONAIRE is the per
   Clay is in his head. Gary Hoppenstand contributes an introduction discussing the
   reception of the work when it was first serialized in THE STRAND and the significance
   of Colonel Clay as the first recurring gentleman rogue"--'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4715#An-African-Millionaire--Episodes-in-the-Life-of-the-Illustrious-Colonel-Clay
 gutenberg_bookshelf:
 - Crime Fiction
 - Africa
